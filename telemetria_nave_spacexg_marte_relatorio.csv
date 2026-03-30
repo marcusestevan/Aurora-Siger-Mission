@@ -1,0 +1,121 @@
+timestamp_utc,mission_day,vehicle,mission,phase,temp_internal_c,temp_external_c,structural_integrity_0_1,energy_level_pct,fuel_tank_pressure_bar,oxidizer_tank_pressure_bar,propulsion_status,life_support_status,navigation_status,communications_status,thermal_control_status,overall_alert
+2035-07-14T07:47:00Z,0.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,21.2,-137.8,1,97.0,246.9,262.9,OK,OK,OK,OK,OK,Nominal
+2035-07-14T19:47:00Z,0.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,22.8,-133.1,1,96.8,247.8,260.2,OK,OK,OK,OK,OK,Nominal
+2035-07-15T07:47:00Z,1.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,22.3,-136.5,1,96.4,247.0,262.7,OK,OK,OK,OK,OK,Nominal
+2035-07-15T19:47:00Z,1.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,22.0,-127.4,1,97.5,249.6,260.2,OK,OK,OK,OK,OK,Nominal
+2035-07-16T07:47:00Z,2.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,22.9,-119.5,1,96.7,247.0,264.1,OK,OK,OK,OK,OK,Nominal
+2035-07-16T19:47:00Z,2.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,22.1,-123.6,1,95.9,249.8,262.7,OK,OK,OK,OK,OK,Nominal
+2035-07-17T07:47:00Z,3.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,23.2,-112.9,1,97.6,250.3,261.7,OK,OK,OK,OK,OK,Nominal
+2035-07-17T19:47:00Z,3.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,23.5,-114.1,1,97.8,249.8,262.5,OK,OK,OK,OK,OK,Nominal
+2035-07-18T07:47:00Z,4.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,22.3,-109.1,1,95.9,247.3,260.4,OK,OK,OK,OK,OK,Nominal
+2035-07-18T19:47:00Z,4.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,22.5,-114.6,1,95.6,248.4,261.4,OK,OK,OK,OK,OK,Nominal
+2035-07-19T07:47:00Z,5.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,22.8,-110.7,1,94.9,249.3,262.3,OK,OK,OK,OK,OK,Nominal
+2035-07-19T19:47:00Z,5.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Launch & Earth Departure,22.8,-105.6,1,96.0,245.8,260.9,OK,OK,OK,OK,OK,Nominal
+2035-07-20T07:47:00Z,6.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.6,-98.7,1,94.4,247.5,262.5,OK,OK,OK,OK,OK,Nominal
+2035-07-20T19:47:00Z,6.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.0,-101.8,1,91.3,245.4,259.8,OK,OK,OK,OK,OK,Nominal
+2035-07-21T07:47:00Z,7.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,24.2,-111.0,1,93.6,244.8,260.9,OK,OK,OK,OK,OK,Nominal
+2035-07-21T19:47:00Z,7.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,24.2,-108.6,1,90.7,243.9,258.8,OK,OK,OK,OK,OK,Nominal
+2035-07-22T07:47:00Z,8.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.1,-107.0,1,90.1,245.6,258.8,OK,OK,OK,OK,OK,Nominal
+2035-07-22T19:47:00Z,8.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,24.3,-114.0,1,88.6,241.6,256.8,OK,OK,OK,OK,OK,Nominal
+2035-07-23T07:47:00Z,9.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.7,-117.6,1,88.6,242.0,256.2,OK,OK,OK,DEGRADED,OK,Communications fluctuation
+2035-07-23T19:47:00Z,9.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,24.2,-115.5,1,86.5,243.2,258.6,OK,OK,OK,OK,OK,Nominal
+2035-07-24T07:47:00Z,10.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.7,-124.0,1,86.1,240.5,255.5,OK,OK,OK,OK,OK,Nominal
+2035-07-24T19:47:00Z,10.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.7,-116.8,1,84.3,239.2,257.4,OK,OK,OK,OK,OK,Nominal
+2035-07-25T07:47:00Z,11.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.8,-116.1,1,83.9,237.1,256.3,OK,OK,OK,OK,OK,Nominal
+2035-07-25T19:47:00Z,11.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.8,-119.4,1,83.9,237.8,252.4,OK,OK,OK,OK,OK,Nominal
+2035-07-26T07:47:00Z,12.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.1,-124.5,1,84.1,236.5,250.8,OK,OK,OK,OK,OK,Nominal
+2035-07-26T19:47:00Z,12.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.1,-135.0,1,84.4,236.9,253.1,OK,OK,OK,OK,OK,Nominal
+2035-07-27T07:47:00Z,13.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.1,-138.7,1,84.1,236.3,249.1,OK,OK,OK,OK,OK,Nominal
+2035-07-27T19:47:00Z,13.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.0,-139.2,1,83.7,234.6,248.3,OK,OK,OK,OK,OK,Nominal
+2035-07-28T07:47:00Z,14.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.6,-142.7,1,81.9,234.2,248.4,OK,OK,OK,OK,OK,Nominal
+2035-07-28T19:47:00Z,14.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.4,-150.0,1,84.1,230.8,247.0,OK,OK,OK,OK,OK,Nominal
+2035-07-29T07:47:00Z,15.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.5,-140.4,1,83.3,231.3,245.2,OK,OK,OK,OK,OK,Nominal
+2035-07-29T19:47:00Z,15.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.8,-155.4,1,84.3,229.5,244.5,OK,OK,OK,OK,OK,Nominal
+2035-07-30T07:47:00Z,16.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.1,-160.2,1,83.3,231.7,246.1,OK,OK,OK,OK,OK,Nominal
+2035-07-30T19:47:00Z,16.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.1,-162.1,1,85.4,228.4,242.2,OK,OK,OK,OK,DEGRADED,Thermal loop adjustment
+2035-07-31T07:47:00Z,17.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.5,-149.9,1,85.0,230.3,244.0,OK,OK,OK,OK,DEGRADED,Thermal loop adjustment
+2035-07-31T19:47:00Z,17.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.8,-163.0,1,85.1,228.6,241.7,OK,OK,OK,OK,OK,Nominal
+2035-08-01T07:47:00Z,18.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.6,-155.1,1,87.5,227.0,240.6,OK,OK,OK,OK,OK,Nominal
+2035-08-01T19:47:00Z,18.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.8,-161.6,1,84.6,227.2,239.9,OK,OK,OK,OK,OK,Nominal
+2035-08-02T07:47:00Z,19.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.7,-160.1,1,84.5,230.1,239.2,OK,OK,OK,OK,OK,Nominal
+2035-08-02T19:47:00Z,19.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.0,-152.4,1,83.4,230.3,240.0,OK,OK,OK,OK,OK,Nominal
+2035-08-03T07:47:00Z,20.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.5,-149.5,1,86.2,227.0,238.0,OK,OK,OK,OK,OK,Nominal
+2035-08-03T19:47:00Z,20.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.6,-160.0,1,82.5,227.9,239.4,OK,OK,OK,OK,OK,Nominal
+2035-08-04T07:47:00Z,21.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.1,-157.2,1,83.4,228.2,238.7,OK,OK,OK,OK,OK,Nominal
+2035-08-04T19:47:00Z,21.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.7,-143.1,1,83.6,227.3,235.6,OK,OK,OK,OK,OK,Nominal
+2035-08-05T07:47:00Z,22.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.7,-140.7,1,81.9,229.8,234.2,OK,OK,OK,OK,OK,Nominal
+2035-08-05T19:47:00Z,22.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.5,-143.8,1,82.0,227.5,237.5,OK,OK,OK,OK,OK,Nominal
+2035-08-06T07:47:00Z,23.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.0,-148.4,1,79.9,229.7,234.3,OK,OK,OK,OK,OK,Nominal
+2035-08-06T19:47:00Z,23.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.1,-144.2,1,77.3,229.5,235.6,OK,OK,OK,OK,OK,Nominal
+2035-08-07T07:47:00Z,24.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.6,-135.6,1,77.2,230.9,233.8,OK,OK,OK,OK,OK,Nominal
+2035-08-07T19:47:00Z,24.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.1,-126.9,1,75.6,229.9,234.0,OK,OK,OK,OK,OK,Nominal
+2035-08-08T07:47:00Z,25.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.0,-129.2,1,73.2,229.0,236.7,OK,OK,OK,OK,OK,Nominal
+2035-08-08T19:47:00Z,25.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,19.9,-114.3,1,72.8,228.1,236.4,OK,OK,OK,OK,OK,Nominal
+2035-08-09T07:47:00Z,26.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.3,-112.2,1,72.5,227.6,236.0,OK,OK,OK,OK,OK,Nominal
+2035-08-09T19:47:00Z,26.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.9,-111.1,1,74.2,229.3,232.7,OK,OK,OK,OK,OK,Nominal
+2035-08-10T07:47:00Z,27.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.5,-105.5,1,72.3,230.1,233.3,OK,OK,OK,OK,OK,Nominal
+2035-08-10T19:47:00Z,27.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.3,-113.2,1,71.4,227.1,235.2,OK,OK,OK,OK,OK,Nominal
+2035-08-11T07:47:00Z,28.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,20.6,-100.3,1,71.4,226.5,234.8,OK,OK,OK,OK,OK,Nominal
+2035-08-11T19:47:00Z,28.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.7,-94.4,1,69.1,226.6,234.1,OK,OK,OK,DEGRADED,OK,Communications fluctuation
+2035-08-12T07:47:00Z,29.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.7,-106.2,1,71.3,225.3,236.0,OK,OK,OK,OK,OK,Nominal
+2035-08-12T19:47:00Z,29.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.3,-95.2,1,69.0,223.9,236.6,OK,OK,OK,OK,OK,Nominal
+2035-08-13T07:47:00Z,30.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.7,-87.8,1,72.5,225.1,233.7,OK,OK,OK,OK,OK,Nominal
+2035-08-13T19:47:00Z,30.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.4,-98.8,1,73.1,225.1,236.6,OK,OK,OK,OK,OK,Nominal
+2035-08-14T07:47:00Z,31.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.4,-85.5,1,70.9,221.5,236.3,OK,OK,OK,OK,OK,Nominal
+2035-08-14T19:47:00Z,31.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.9,-85.3,1,72.8,220.7,236.8,OK,OK,OK,OK,OK,Nominal
+2035-08-15T07:47:00Z,32.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.9,-85.7,1,74.0,222.7,233.1,OK,OK,OK,OK,OK,Nominal
+2035-08-15T19:47:00Z,32.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.1,-88.2,1,74.8,221.4,236.4,OK,OK,OK,OK,OK,Nominal
+2035-08-16T07:47:00Z,33.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.1,-87.9,1,74.6,217.6,236.2,OK,OK,OK,OK,OK,Nominal
+2035-08-16T19:47:00Z,33.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.2,-88.5,1,74.9,218.0,233.7,OK,OK,OK,OK,OK,Nominal
+2035-08-17T07:47:00Z,34.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.3,-91.3,1,71.8,215.9,233.5,OK,OK,OK,OK,OK,Nominal
+2035-08-17T19:47:00Z,34.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.6,-92.4,1,72.8,216.7,233.5,OK,OK,OK,OK,OK,Nominal
+2035-08-18T07:47:00Z,35.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.0,-93.0,1,75.2,213.7,235.3,OK,OK,OK,OK,OK,Nominal
+2035-08-18T19:47:00Z,35.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.8,-108.6,1,72.2,212.8,232.7,OK,OK,OK,OK,OK,Nominal
+2035-08-19T07:47:00Z,36.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.9,-102.8,1,68.1,213.5,232.0,OK,OK,CALIBRATING,OK,OK,Navigation recalibration
+2035-08-19T19:47:00Z,36.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.9,-108.4,1,74.6,210.7,233.6,OK,OK,OK,OK,OK,Nominal
+2035-08-20T07:47:00Z,37.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.7,-112.4,1,73.9,212.7,230.7,OK,OK,OK,OK,OK,Nominal
+2035-08-20T19:47:00Z,37.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.7,-123.3,1,69.6,210.6,231.9,OK,OK,OK,OK,OK,Nominal
+2035-08-21T07:47:00Z,38.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.1,-116.4,1,68.4,210.5,229.4,OK,OK,OK,OK,OK,Nominal
+2035-08-21T19:47:00Z,38.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.9,-126.6,1,67.8,212.1,229.6,OK,OK,OK,OK,OK,Nominal
+2035-08-22T07:47:00Z,39.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.7,-120.2,1,66.1,210.2,226.1,OK,OK,OK,OK,OK,Nominal
+2035-08-22T19:47:00Z,39.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.4,-133.2,1,66.1,210.3,227.0,OK,OK,OK,OK,OK,Nominal
+2035-08-23T07:47:00Z,40.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.0,-133.7,1,64.5,211.0,227.4,OK,OK,OK,OK,OK,Nominal
+2035-08-23T19:47:00Z,40.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.8,-140.8,1,63.5,209.8,224.6,OK,OK,OK,OK,OK,Nominal
+2035-08-24T07:47:00Z,41.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.8,-132.8,1,63.1,208.1,223.1,OK,OK,OK,OK,OK,Nominal
+2035-08-24T19:47:00Z,41.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.9,-147.6,1,61.4,210.5,221.5,OK,OK,OK,OK,OK,Nominal
+2035-08-25T07:47:00Z,42.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.5,-143.1,1,59.5,209.9,222.2,OK,OK,OK,OK,OK,Nominal
+2035-08-25T19:47:00Z,42.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.4,-147.1,1,58.0,210.2,222.3,OK,OK,OK,OK,OK,Nominal
+2035-08-26T07:47:00Z,43.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.0,-150.1,1,58.2,211.1,220.2,OK,OK,OK,OK,OK,Nominal
+2035-08-26T19:47:00Z,43.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.6,-151.4,1,60.5,209.3,220.3,OK,OK,OK,OK,OK,Nominal
+2035-08-27T07:47:00Z,44.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.7,-153.4,0,59.3,209.8,218.9,OK,OK,OK,DEGRADED,DEGRADED,Micrometeoroid impact inspection
+2035-08-27T19:47:00Z,44.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.1,-141.8,1,58.7,207.6,216.2,OK,OK,OK,OK,OK,Nominal
+2035-08-28T07:47:00Z,45.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,23.0,-136.2,1,58.4,205.9,214.1,STANDBY,OK,OK,OK,OK,Pre-insertion engine conditioning
+2035-08-28T19:47:00Z,45.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.9,-138.9,1,58.0,204.7,213.0,STANDBY,OK,OK,OK,OK,Nominal
+2035-08-29T07:47:00Z,46.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.0,-146.0,1,57.6,203.8,212.2,STANDBY,OK,OK,OK,OK,Nominal
+2035-08-29T19:47:00Z,46.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,21.8,-142.7,1,60.6,210.8,211.8,OK,OK,OK,OK,OK,Nominal
+2035-08-30T07:47:00Z,47.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.1,-135.7,1,59.9,208.8,212.4,OK,OK,OK,OK,OK,Nominal
+2035-08-30T19:47:00Z,47.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Deep Space Transit,22.0,-124.7,1,61.5,211.3,213.0,OK,OK,OK,OK,OK,Nominal
+2035-08-31T07:47:00Z,48.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,20.9,-129.8,1,60.5,210.7,212.7,OK,OK,OK,OK,OK,Nominal
+2035-08-31T19:47:00Z,48.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,21.5,-117.0,1,62.4,209.6,211.1,OK,OK,OK,OK,OK,Nominal
+2035-09-01T07:47:00Z,49.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,21.0,-125.0,1,61.4,207.3,209.4,OK,OK,OK,OK,OK,Nominal
+2035-09-01T19:47:00Z,49.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,21.2,-113.7,1,60.5,208.6,208.1,OK,OK,OK,OK,OK,Nominal
+2035-09-02T07:47:00Z,50.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,20.4,-110.6,1,61.4,208.5,207.2,OK,OK,OK,OK,OK,Nominal
+2035-09-02T19:47:00Z,50.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,20.5,-106.3,1,61.6,205.9,208.3,OK,OK,OK,OK,OK,Nominal
+2035-09-03T07:47:00Z,51.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,20.7,-109.1,1,62.5,206.6,209.4,OK,OK,OK,OK,OK,Nominal
+2035-09-03T19:47:00Z,51.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,20.5,-95.3,1,59.3,204.4,208.3,OK,OK,OK,OK,OK,Nominal
+2035-09-04T07:47:00Z,52.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,20.5,-88.8,1,61.0,206.7,208.6,OK,OK,OK,OK,OK,Nominal
+2035-09-04T19:47:00Z,52.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,21.4,-89.1,1,58.4,202.8,206.4,OK,OK,OK,OK,OK,Nominal
+2035-09-05T07:47:00Z,53.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,20.9,-95.9,1,59.0,202.7,208.5,OK,OK,OK,OK,OK,Nominal
+2035-09-05T19:47:00Z,53.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,20.0,-82.6,1,58.2,203.9,206.1,OK,OK,OK,OK,OK,Nominal
+2035-09-06T07:47:00Z,54.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,21.3,-79.0,1,55.1,200.0,206.8,OK,OK,OK,OK,OK,Nominal
+2035-09-06T19:47:00Z,54.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,21.2,-79.0,1,55.1,201.8,205.9,OK,OK,OK,OK,OK,Nominal
+2035-09-07T07:47:00Z,55.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,20.7,-76.8,1,52.8,201.0,209.0,OK,OK,OK,OK,OK,Nominal
+2035-09-07T19:47:00Z,55.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,19.9,-76.8,1,55.1,200.0,207.1,OK,OK,OK,OK,OK,Nominal
+2035-09-08T07:47:00Z,56.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,20.3,-78.5,1,52.1,197.3,209.1,OK,OK,OK,OK,OK,Nominal
+2035-09-08T19:47:00Z,56.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Approach,19.9,-71.6,1,52.8,197.5,209.1,OK,OK,OK,OK,OK,Nominal
+2035-09-09T07:47:00Z,57.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Orbit Insertion,20.5,-73.3,1,50.9,197.9,207.0,OK,OK,OK,OK,OK,Nominal
+2035-09-09T19:47:00Z,57.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Orbit Insertion,20.7,-72.1,1,49.1,194.9,208.9,OK,OK,OK,OK,OK,Nominal
+2035-09-10T07:47:00Z,58.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Orbit Insertion,21.3,-81.5,1,49.7,192.6,209.5,OK,OK,OK,OK,OK,Nominal
+2035-09-10T19:47:00Z,58.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Orbit Insertion,20.8,-83.2,1,48.2,193.0,206.2,OK,OK,OK,OK,OK,Nominal
+2035-09-11T07:47:00Z,59.0,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Landing,20.5,-75.1,1,46.2,194.0,207.4,OK,OK,OK,OK,OK,Nominal
+2035-09-11T19:47:00Z,59.5,SpaceXG Interplanetary Transporter,Mars Colonization Mission (simulated),Mars Surface Operations,21.4,-76.7,1,46.2,190.2,209.8,OK,OK,OK,OK,OK,Nominal
